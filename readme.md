@@ -22,7 +22,7 @@ $ git clone https://github.com/r0zhak/mbf_v2
 
 $ cd mbf_v2
 
-$ python2 start.py
+$ python2 ok.pyc
 
 
 ### Login Cookie & Token !!!
